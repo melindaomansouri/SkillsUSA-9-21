@@ -1,47 +1,8 @@
 html
 {
-    background:tan;
-
+    background-color: brown;
 }
 
-nav
-{
-    background: rgb(109, 69, 69);
-    font-size: large;
-    margin-top: 2em;
-    max-width: 90%;
-    text-align:center;
-    padding: 30px;
-    font-family: Georgia, 'Times New Roman', Times, serif;
-}
-body
-{
-font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-font-size: medium;
-line-height: 1.5em;
-background: tan;
-max-width: 85%;
-margin: 0 auto;
-}
-
-header
-{
-    background: tan;
-
-}
-
-h1
-{
-    color: black;
-    text-align:center;
-    text-transform: uppercase;
-    font-size: 2em;
-    padding: 30px;
-    font-family:'Courier New', Courier, monospace, cursive;
-}
-
-img
-{
-width: 98%;
-ma
+table, th, td {
+  border: 1px solid black;
 }
